@@ -1,0 +1,78 @@
+{
+  "current_algorithms": {
+    "single_double": 1,
+    "big_small": 1,
+    "kill_group": 1,
+    "double_group": 1
+  },
+  "algorithm_performance": {
+    "single_double": {
+      "1": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      },
+      "2": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      }
+    },
+    "big_small": {
+      "1": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      },
+      "2": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      }
+    },
+    "kill_group": {
+      "1": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      },
+      "2": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      },
+      "3": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      }
+    },
+    "double_group": {
+      "1": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      },
+      "2": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      },
+      "3": {
+        "total_predictions": 0,
+        "correct_predictions": 0,
+        "success_rate": 0.5,
+        "confidence_score": 0.5
+      }
+    }
+  }
+}

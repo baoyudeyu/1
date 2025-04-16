@@ -1,0 +1,134 @@
+2025-04-06 21:12:53,338 - fix_prediction_v2 - INFO - 宝塔环境: 否
+2025-04-06 21:12:53,339 - fix_prediction_v2 - INFO - 当前工作目录: C:\Users\pc\Desktop\fenxi28_4cTzs (1)
+2025-04-06 21:12:53,340 - fix_prediction_v2 - INFO - 使用数据库路径: lottery.db
+2025-04-06 21:12:53,340 - fix_prediction_v2 - INFO - 开始检查和修复预测数据...
+2025-04-06 21:12:53,340 - fix_prediction_v2 - INFO - 数据库文件权限: 可读=True, 可写=True
+2025-04-06 21:12:53,342 - fix_prediction_v2 - INFO - 数据库连接成功
+2025-04-06 21:12:53,342 - fix_prediction_v2 - INFO - 确保必要的表存在...
+2025-04-06 21:12:53,346 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance 表成功
+2025-04-06 21:12:53,356 - fix_prediction_v2 - INFO - 创建/确认 algorithm_switch 表成功
+2025-04-06 21:12:53,365 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance_full 表成功
+2025-04-06 21:12:53,365 - fix_prediction_v2 - INFO - 初始化表数据...
+2025-04-06 21:12:53,366 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法1
+2025-04-06 21:12:53,366 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法2
+2025-04-06 21:12:53,374 - fix_prediction_v2 - INFO - 初始化 algorithm_performance 表默认数据: single_double - 算法3
+2025-04-06 21:12:53,374 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法1
+2025-04-06 21:12:53,375 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法2
+2025-04-06 21:12:53,381 - fix_prediction_v2 - INFO - 初始化 algorithm_performance 表默认数据: big_small - 算法3
+2025-04-06 21:12:53,381 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法1
+2025-04-06 21:12:53,383 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法2
+2025-04-06 21:12:53,384 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法3
+2025-04-06 21:12:53,385 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法1
+2025-04-06 21:12:53,385 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法2
+2025-04-06 21:12:53,386 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法3
+2025-04-06 21:12:53,394 - fix_prediction_v2 - INFO - 初始化 algorithm_performance_full 表默认数据: single_double
+2025-04-06 21:12:53,404 - fix_prediction_v2 - INFO - 初始化 algorithm_performance_full 表默认数据: big_small
+2025-04-06 21:12:53,412 - fix_prediction_v2 - INFO - 初始化 algorithm_performance_full 表默认数据: kill_group
+2025-04-06 21:12:53,419 - fix_prediction_v2 - INFO - 初始化 algorithm_performance_full 表默认数据: double_group
+2025-04-06 21:12:53,419 - fix_prediction_v2 - INFO - 检查是否需要迁移数据...
+2025-04-06 21:12:53,420 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在single_double的数据，跳过迁移
+2025-04-06 21:12:53,421 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在big_small的数据，跳过迁移
+2025-04-06 21:12:53,421 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在kill_group的数据，跳过迁移
+2025-04-06 21:12:53,421 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在double_group的数据，跳过迁移
+2025-04-06 21:12:53,422 - fix_prediction_v2 - INFO - 预测数据检查和修复完成
+2025-04-06 21:15:10,544 - fix_prediction_v2 - INFO - 宝塔环境: 否
+2025-04-06 21:15:10,544 - fix_prediction_v2 - INFO - 当前工作目录: C:\Users\pc\Desktop\fenxi28_4cTzs (1)
+2025-04-06 21:15:10,544 - fix_prediction_v2 - INFO - 使用数据库路径: lottery.db
+2025-04-06 21:15:10,544 - fix_prediction_v2 - INFO - 开始检查和修复预测数据...
+2025-04-06 21:15:10,545 - fix_prediction_v2 - INFO - 数据库文件权限: 可读=True, 可写=True
+2025-04-06 21:15:10,545 - fix_prediction_v2 - INFO - 数据库连接成功
+2025-04-06 21:15:10,546 - fix_prediction_v2 - INFO - 确保必要的表存在...
+2025-04-06 21:15:10,546 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance 表成功
+2025-04-06 21:15:10,547 - fix_prediction_v2 - INFO - 创建/确认 algorithm_switch 表成功
+2025-04-06 21:15:10,547 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance_full 表成功
+2025-04-06 21:15:10,547 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance_details 表成功
+2025-04-06 21:15:10,547 - fix_prediction_v2 - INFO - 初始化表数据...
+2025-04-06 21:15:10,548 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法1
+2025-04-06 21:15:10,548 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法2
+2025-04-06 21:15:10,548 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法3
+2025-04-06 21:15:10,549 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法1
+2025-04-06 21:15:10,549 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法2
+2025-04-06 21:15:10,549 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法3
+2025-04-06 21:15:10,550 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法1
+2025-04-06 21:15:10,550 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法2
+2025-04-06 21:15:10,551 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法3
+2025-04-06 21:15:10,551 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法1
+2025-04-06 21:15:10,552 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法2
+2025-04-06 21:15:10,552 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法3
+2025-04-06 21:15:10,553 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: single_double
+2025-04-06 21:15:10,553 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: big_small
+2025-04-06 21:15:10,553 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: kill_group
+2025-04-06 21:15:10,553 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: double_group
+2025-04-06 21:15:10,554 - fix_prediction_v2 - INFO - 检查是否需要迁移数据...
+2025-04-06 21:15:10,554 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在single_double的数据，跳过迁移
+2025-04-06 21:15:10,555 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在big_small的数据，跳过迁移
+2025-04-06 21:15:10,555 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在kill_group的数据，跳过迁移
+2025-04-06 21:15:10,555 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在double_group的数据，跳过迁移
+2025-04-06 21:15:10,555 - fix_prediction_v2 - INFO - 检查预测相关表...
+2025-04-06 21:15:10,556 - fix_prediction_v2 - INFO - 表 algorithm_performance 存在，包含 12 条记录
+2025-04-06 21:15:10,556 - fix_prediction_v2 - INFO - 表 algorithm_switch 存在，包含 0 条记录
+2025-04-06 21:15:10,556 - fix_prediction_v2 - INFO - 表 algorithm_performance_full 存在，包含 4 条记录
+2025-04-06 21:15:10,557 - fix_prediction_v2 - INFO - 表 algorithm_performance_details 存在，包含 4 条记录
+2025-04-06 21:15:10,558 - fix_prediction_v2 - INFO - 所有预测相关表均已存在
+2025-04-06 21:15:10,558 - fix_prediction_v2 - INFO - 修复算法数据格式...
+2025-04-06 21:15:10,565 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 single_double 的数据格式
+2025-04-06 21:15:10,573 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 big_small 的数据格式
+2025-04-06 21:15:10,581 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 kill_group 的数据格式
+2025-04-06 21:15:10,589 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 double_group 的数据格式
+2025-04-06 21:15:10,598 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 single_double 的数据格式
+2025-04-06 21:15:10,605 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 big_small 的数据格式
+2025-04-06 21:15:10,613 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 kill_group 的数据格式
+2025-04-06 21:15:10,621 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 double_group 的数据格式
+2025-04-06 21:15:10,622 - fix_prediction_v2 - INFO - 预测数据检查和修复完成
+2025-04-06 21:16:01,761 - fix_prediction_v2 - INFO - 宝塔环境: 否
+2025-04-06 21:16:01,761 - fix_prediction_v2 - INFO - 当前工作目录: C:\Users\pc\Desktop\fenxi28_4cTzs (1)
+2025-04-06 21:16:01,761 - fix_prediction_v2 - INFO - 使用数据库路径: lottery.db
+2025-04-06 21:16:01,762 - fix_prediction_v2 - INFO - 开始检查和修复预测数据...
+2025-04-06 21:16:01,762 - fix_prediction_v2 - INFO - 数据库文件权限: 可读=True, 可写=True
+2025-04-06 21:16:01,762 - fix_prediction_v2 - INFO - 数据库连接成功
+2025-04-06 21:16:01,762 - fix_prediction_v2 - INFO - 确保必要的表存在...
+2025-04-06 21:16:01,763 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance 表成功
+2025-04-06 21:16:01,763 - fix_prediction_v2 - INFO - 创建/确认 algorithm_switch 表成功
+2025-04-06 21:16:01,763 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance_full 表成功
+2025-04-06 21:16:01,764 - fix_prediction_v2 - INFO - 创建/确认 algorithm_performance_details 表成功
+2025-04-06 21:16:01,764 - fix_prediction_v2 - INFO - 初始化表数据...
+2025-04-06 21:16:01,764 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法1
+2025-04-06 21:16:01,764 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法2
+2025-04-06 21:16:01,765 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: single_double - 算法3
+2025-04-06 21:16:01,765 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法1
+2025-04-06 21:16:01,765 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法2
+2025-04-06 21:16:01,765 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: big_small - 算法3
+2025-04-06 21:16:01,766 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法1
+2025-04-06 21:16:01,766 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法2
+2025-04-06 21:16:01,766 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: kill_group - 算法3
+2025-04-06 21:16:01,767 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法1
+2025-04-06 21:16:01,767 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法2
+2025-04-06 21:16:01,767 - fix_prediction_v2 - INFO - algorithm_performance 表已存在数据: double_group - 算法3
+2025-04-06 21:16:01,768 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: single_double
+2025-04-06 21:16:01,768 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: big_small
+2025-04-06 21:16:01,769 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: kill_group
+2025-04-06 21:16:01,769 - fix_prediction_v2 - INFO - algorithm_performance_full 表已存在数据: double_group
+2025-04-06 21:16:01,769 - fix_prediction_v2 - INFO - 检查是否需要迁移数据...
+2025-04-06 21:16:01,770 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在single_double的数据，跳过迁移
+2025-04-06 21:16:01,770 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在big_small的数据，跳过迁移
+2025-04-06 21:16:01,770 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在kill_group的数据，跳过迁移
+2025-04-06 21:16:01,771 - fix_prediction_v2 - INFO - algorithm_performance_full表已存在double_group的数据，跳过迁移
+2025-04-06 21:16:01,771 - fix_prediction_v2 - INFO - 检查预测相关表...
+2025-04-06 21:16:01,771 - fix_prediction_v2 - INFO - 表 algorithm_performance 存在，包含 12 条记录
+2025-04-06 21:16:01,771 - fix_prediction_v2 - INFO - 表 algorithm_switch 存在，包含 0 条记录
+2025-04-06 21:16:01,773 - fix_prediction_v2 - INFO - 表 algorithm_performance_full 存在，包含 4 条记录
+2025-04-06 21:16:01,773 - fix_prediction_v2 - INFO - 表 algorithm_performance_details 存在，包含 4 条记录
+2025-04-06 21:16:01,773 - fix_prediction_v2 - INFO - 所有预测相关表均已存在
+2025-04-06 21:16:01,773 - fix_prediction_v2 - INFO - 修复算法数据格式...
+2025-04-06 21:16:01,781 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 single_double 的数据格式
+2025-04-06 21:16:01,789 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 big_small 的数据格式
+2025-04-06 21:16:01,797 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 kill_group 的数据格式
+2025-04-06 21:16:01,805 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_full 表中 double_group 的数据格式
+2025-04-06 21:16:01,812 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 single_double 的数据格式
+2025-04-06 21:16:01,820 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 big_small 的数据格式
+2025-04-06 21:16:01,827 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 kill_group 的数据格式
+2025-04-06 21:16:01,835 - fix_prediction_v2 - INFO - 已修复 algorithm_performance_details 表中 double_group 的数据格式
+2025-04-06 21:16:01,835 - fix_prediction_v2 - INFO - 修复PredictorModel属性...
+2025-04-06 21:16:01,845 - fix_prediction_v2 - INFO - 已添加 C:\Users\pc\Desktop\fenxi28_4cTzs (1) 到系统路径
+2025-04-06 21:16:02,149 - fix_prediction_v2 - INFO - PredictorModel.__init__已包含last_save_time初始化
+2025-04-06 21:16:02,149 - fix_prediction_v2 - INFO - 预测数据检查和修复完成
